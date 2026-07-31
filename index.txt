@@ -63,7 +63,8 @@ CTYPE html>
     width:42px;height:42px;border-radius:10px;
     background:var(--surface);
     display:flex;align-items:center;justify-content:center;
-    box-shadow:0 0 0 1px var(--border);
+    background:#FFDB20;
+		box-shadow:0 0 0 1px var(--border);
     flex:none;overflow:hidden;
   }
   .seal
